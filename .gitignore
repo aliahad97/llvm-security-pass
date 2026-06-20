@@ -1,0 +1,7 @@
+CLAUDE.md
+build/
+*.dylib
+*.so
+*.ll
+*.bc
+.DS_Store
